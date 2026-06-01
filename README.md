@@ -120,13 +120,6 @@ Enabled users to view hotels, details, and complete bookings with a smooth UI
 - Design and Analysis of Algorithms (DAA)  
 - Advanced Java Programming  
 
-✅ **Cisco**
-- Python Essentials  
-- Introduction to Cyber Security  
-
-✅ **Infosys Springboard & Coursera**
-- Multiple certifications in Java and C++  
-
 ---
 
 ## 🎓 Education
