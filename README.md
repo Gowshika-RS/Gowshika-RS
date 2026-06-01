@@ -55,30 +55,31 @@
 
 ## 🚀 Projects
 
-### 🏨 Book My Stay
-**Tech:** React.js  
+🤖 AI-Based Unsafe Area Prediction App
 
-- Developed a responsive hotel booking web application  
-- Implemented authentication, search, filtering, and booking workflows  
-- Designed a clean and user-friendly interface  
+Tech: Python (FastAPI), React.js
 
----
+Developed an AI-powered web application to predict unsafe areas using location-based data
+Built REST APIs using FastAPI and integrated with React frontend
+Designed an interactive UI for visualizing predictions and safety insights
 
-### 🍽 Meal Planner Application
-**Tech:** Spring Boot, React.js  
 
-- Built a backend-driven meal planner using Spring Boot & RESTful APIs  
-- Implemented CRUD operations for meal scheduling and user preferences  
-- Supported nutritional planning and efficient data handling  
+🎬 Movie Discovery & Watch Party Organizer
 
----
+Tech: Full Stack (React.js, Spring Boot / Node.js, REST APIs)
 
-### 🎓 College Event Management System
-**Tech:** Full Stack (Spring Boot, React.js, MySQL)  
+Built a full-stack movie discovery platform with ratings and streaming availability
+Enabled users to select and share movies with friends for group decision-making
+Implemented watch party planning and feedback system for collaborative viewing experience
 
-- Developed a full-stack web application for managing college events  
-- Enabled event creation, registration, and scheduling  
-- Integrated frontend, backend, and database seamlessly  
+
+🏨 BookMyStay – Hotel Booking Platform
+
+Tech: React.js, REST APIs
+
+Developed a responsive hotel booking web application using React.js
+Implemented search, filtering, and room booking workflows
+Enabled users to view hotels, details, and complete bookings with a smooth UI
 
 ---
 
