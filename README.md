@@ -127,7 +127,7 @@ Enabled users to view hotels, details, and complete bookings with a smooth UI
 ### 🏫 Sri Krishna College of Technology  
 **B.E. Computer Science and Engineering (2023–2027)**  
 📍 Coimbatore, Tamil Nadu  
-📊 **CGPA: 8.79 / 10**
+📊 **CGPA: 8.85 / 10**
 
 ---
 
